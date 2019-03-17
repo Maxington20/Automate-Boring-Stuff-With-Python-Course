@@ -1,0 +1,1 @@
+# Just lectures based on scoping. Already know this stuff
